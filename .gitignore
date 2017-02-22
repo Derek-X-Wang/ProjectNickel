@@ -1,2 +1,5 @@
 # Python Cache
 __pycache__
+
+# MacOS
+.DS_Store
